@@ -3,7 +3,7 @@ entries:
   oam-kubernetes-runtime:
   - apiVersion: v1
     appVersion: "0.1"
-    created: "2020-07-20T23:34:32.118037+08:00"
+    created: "2020-07-20T23:52:20.872214+08:00"
     description: A Helm chart for OAM Kubernetes Resources Controller
     digest: ffef06e3e1b09ae719fd74dc49201705eae48dca0043fc902130235fdb5bb255
     name: oam-kubernetes-runtime
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://ghostbaby.github.io/gbcharts/oam-kubernetes-runtime-0.0.1.tgz
     version: 0.0.1
-generated: "2020-07-20T23:34:32.113053+08:00"
+generated: "2020-07-20T23:52:20.868039+08:00"
